@@ -1,0 +1,17 @@
+.list {
+  list-style: none;
+  padding: 0;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.item {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  margin-left: 20px;
+  cursor: pointer;
+}
